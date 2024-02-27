@@ -1,0 +1,10 @@
+To make changes to a file using nano
+
+nano [filename]
+1. write threre
+2.ctrl +o 
+3.enter
+4.ctrl+x
+
+if u get permission denied error, give sudo
+sudo nano [filename]
